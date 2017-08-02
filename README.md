@@ -1,4 +1,4 @@
 # reddit
 Made a simple reddit app
 
-![reddit app](http://i.imgur.com/EUo7Rhd.jpg)
+<img src="http://i.imgur.com/EUo7Rhd.jpg" width="375" height="667">
